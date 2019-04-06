@@ -54,3 +54,8 @@ npm start
 $ npm install apollo-boost react-apollo graphql
 λ npm install cors
  ```
+
+estas son las referencias en las que se basó el taller
+https://egghead.io/courses/build-a-graphql-server
+https://www.fullstackreact.com/#table-of-contents
+https://youtu.be/ed8SzALpx1Q
