@@ -56,6 +56,6 @@ $ npm install apollo-boost react-apollo graphql
  ```
 
 estas son las referencias en las que se basó el taller
-https://egghead.io/courses/build-a-graphql-server
-https://www.fullstackreact.com/#table-of-contents
-https://youtu.be/ed8SzALpx1Q
+- https://egghead.io/courses/build-a-graphql-server
+- https://www.fullstackreact.com/#table-of-contents
+- https://youtu.be/ed8SzALpx1Q
